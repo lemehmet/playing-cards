@@ -1,0 +1,47 @@
+These are individual cards from https://totalnonsense.com/open-source-vector-playing-cards/.
+Please refer to and use the original license, pasted below:
+
+---
+
+52 Vector Poker Standard Playing Card Faces Version 3.0
+Copyright 2011, 2019 - Chris Aguilar - conjurenation@gmail.com
+https://totalnonsense.com/open-source-vector-playing-cards/
+
+Licensed under: LGPL 3.0 - https://www.gnu.org/licenses/lgpl-3.0.html
+
+Each Card Measures (63mm x 88mm)
+
+What is the proper way to add the mandatory attribution when using these vector graphics?
+
+    Vector Playing Cards 3.0
+    https://totalnonsense.com/open-source-vector-playing-cards/
+    Copyright 2011,2019 – Chris Aguilar – conjurenation@gmail.com
+    Licensed under: LGPL 3.0 - https://www.gnu.org/licenses/lgpl-3.0.html
+
+Please use the standardized attribution text in a publicly visible fashion on a publicly accessible page.
+
+Android or iOS App – Please use the standardized attribution text on your apps information page (app store), via your “about this app” option, or as text on your Apps splash page (if any).
+
+Deck of playing cards – If your deck is sold online (or you have a kickstarter) please use the standard attribution in a publicly viewable manner on your main page. If you wish, you can also print the the attribution in small type somewhere on the playing card box (flap, bottom, etc.) or on on any included playing card (such as the extra cards sometimes used)
+
+    	Poster, magazine, billboard, etc. – If you cannot use the proper attribution on a public ad project, please contact me for details on how to properly meet the terms of this license.
+
+   	 Please address any additional questions directly to me at : conjurenation@gmail.com
+
+I would like to use these vectors graphics without Attribution. What are my options?
+
+	Non attribution licensing is available on a “per project” basis at a negotiated rate. Contact me to work out the details: conjurenation at gmail dot com
+
+Are the Cards Available in separate files (i.e. one file per card)?
+
+	No. All 52 cards (plus Jokers) are available in .SVG format. Every card is a separate object which can easily be cut/pasted or exported to a separate document as required. These have only been tested to work with the free vector editor "Inkscape". www.inkscape.org
+
+Would you consider changing the license to something more permissive (MIT, Public Domain, etc)?
+
+	No
+
+Is copyright an issue in using these images?
+
+	The images used (which have been modified for this project) have been around since the 1880’s are are sold by several other third party vendors with no copyright ramifications. I make no guarantees, but strongly believe the source images have been out of copyright for a very long time. Also, great effort has been made to avoid use of any trademarked items.
+
+Please note the current set available here (currently Version 3.0) is copyrighted but can be used without cost under the terms of the open source 
